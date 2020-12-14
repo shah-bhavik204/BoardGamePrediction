@@ -2,7 +2,7 @@
 
 <h2>You can see the actual hosting implementation by clicking on <a href = "http://bsshah4216.pythonanywhere.com/">this</a></h2>
 <h3> To deploy this project on your own local server or on another hosting site, you need to perform the following steps:</h3>
-Creating Flask App-
+### Creating Flask App-
 1.Create a Folder in your Local Directory using mkdir in command prompt
 2. After creating your work directory, enter the directory through command prompt using cd <directory_name>
 3. Once we are in the work directory, we first need to install python if you do not have it already.
@@ -11,7 +11,8 @@ Creating Flask App-
 6. After running that command , we can activate the virtual environment using "venv\scripts\activate"
 7. Once we are in our virtual environment, we must install flask. On windows you can do that by typing "pip3 install flask"
 8. After flask is downloaded, we can open our python code. After entering all the code for our HTML and our Python backend, we now move on to deployment.
-    Deploying Flask App on pythonanywhere-
+
+### Deploying Flask App on pythonanywhere-
 1.	Create a Git repo and upload the files.
 2.	Open bash in “pythonanywhere” and clone the repo using command “git clone <repo>”.
 3.	Set the virtual env by entering the path of the env in Web tab.
