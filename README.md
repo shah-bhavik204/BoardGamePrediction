@@ -2,6 +2,7 @@
 
 <h2>You can see the actual hosting implementation by clicking on <a href = "http://bsshah4216.pythonanywhere.com/">this</a></h2>
 <h3> To deploy this project on your own local server or on another hosting site, you need to perform the following steps:</h3>
+
 ### Creating Flask App-
 1.Create a Folder in your Local Directory using mkdir in command prompt
 2. After creating your work directory, enter the directory through command prompt using cd <directory_name>
