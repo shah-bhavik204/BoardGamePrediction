@@ -4,13 +4,13 @@
 <h3> To deploy this project on your own local server or on another hosting site, you need to perform the following steps:</h3>
 
 ### Creating Flask App-
-1.Create a Folder in your Local Directory using mkdir in command prompt
-2. After creating your work directory, enter the directory through command prompt using cd <directory_name>
+1. Create a Folder in your Local Directory using mkdir in command prompt.
+2. After creating your work directory, enter the directory through command prompt using cd <directory_name>.
 3. Once we are in the work directory, we first need to install python if you do not have it already.
-4. After downloading python, we need to create a virtual environment in our work directory. We first install it by using "pip3 install  --user virtualenv"
-5. We can do that using "virtualenv venv" command in command prompt
-6. After running that command , we can activate the virtual environment using "venv\scripts\activate"
-7. Once we are in our virtual environment, we must install flask. On windows you can do that by typing "pip3 install flask"
+4. After downloading python, we need to create a virtual environment in our work directory. We first install it by using "pip3 install  --user virtualenv".
+5. We can do that using "virtualenv venv" command in command prompt.
+6. After running that command , we can activate the virtual environment using "venv\scripts\activate".
+7. Once we are in our virtual environment, we must install flask. On windows you can do that by typing "pip3 install flask".
 8. After flask is downloaded, we can open our python code. After entering all the code for our HTML and our Python backend, we now move on to deployment.
 
 ### Deploying Flask App on pythonanywhere-
